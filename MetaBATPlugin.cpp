@@ -26,6 +26,7 @@ myCommand += " ";
 myCommand += "-i";
 myCommand += " ";
 myCommand += assemblyfile + " ";
+myCommand += "--seed 1234 "; // Testing
 myCommand += "-o";
 myCommand += " ";
 myCommand += myOutputFile + " ";
