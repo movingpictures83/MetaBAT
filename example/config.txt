@@ -1,0 +1,3 @@
+Prefix plugins/MetaBAT/example/
+Plugin MetaBAT inputfile metabat_inputs.txt outputfile output.txt
+

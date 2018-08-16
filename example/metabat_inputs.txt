@@ -1,0 +1,3 @@
+plugins/MetaBAT/example/assembly.fa
+plugins/MetaBAT/example/1.bam
+plugins/MetaBAT/example/3.bam
