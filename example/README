@@ -5,3 +5,5 @@ http://portal.nersc.gov/dna/RD/Metagenome_RD/MetaBAT/Software/Mockup/
 
 2. The Galaxy Project
 https://galaxyproject.org/
+
+NOTE: You will need to unzip assembly.fa.zip before running this plugin
