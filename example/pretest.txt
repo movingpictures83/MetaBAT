@@ -1,0 +1,2 @@
+bash -c "unzip plugins/MetaBAT/example/assembly.fa.zip >& /dev/null"
+mv assembly.fa plugins/MetaBAT/example/
